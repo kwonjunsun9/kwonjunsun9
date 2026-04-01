@@ -2,9 +2,9 @@
 <div align="center"> 
 
 </div>
-<p align= "center">
-<img width="70%" height="70%" alt="Image" src="https://github.com/user-attachments/assets/a4031428-3d4f-41ff-86f7-6826d4b3dea7" />
-</p>
+
+<img width="60%" height="60%" alt="Image" src="https://github.com/user-attachments/assets/a4031428-3d4f-41ff-86f7-6826d4b3dea7" />
+
 
 
 <!--
