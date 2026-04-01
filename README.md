@@ -1,4 +1,4 @@
-# 안녕하세용가리
+# 집에 가고 싶어요
 <p align= "center">
 <img width="60%" height="60%" alt="Image" src="https://github.com/user-attachments/assets/c8106f12-c1e5-4f6b-9e63-ae8a06debe71" />
 
