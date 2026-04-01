@@ -1,6 +1,6 @@
-
+# 집가고 싶다 
 <div align="center"> 
-집에 가고 싶어요 ^^
+
 </div>
 <p align= "center">
 <img width="60%" height="60%" alt="Image" src="https://github.com/user-attachments/assets/c8106f12-c1e5-4f6b-9e63-ae8a06debe71" />
