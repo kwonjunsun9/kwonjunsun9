@@ -1,4 +1,8 @@
 # 안녕하세용가리
+<p align= "center">
+<img width="1393" height="779" alt="Image" src="https://github.com/user-attachments/assets/c8106f12-c1e5-4f6b-9e63-ae8a06debe71" />
+
+
 
 <!--
 **kwonjunsun9/kwonjunsun9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
