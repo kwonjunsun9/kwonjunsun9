@@ -1,7 +1,7 @@
 # 과제 싫어요ㅤ<img width="5%" height="5%" alt="Image" src="https://github.com/user-attachments/assets/978cf2e6-c53b-442c-a068-e087aa99ee0c" />
 <div align="center"> 
 </div>
-<img width="50%" height="50%" alt="Image" src="https://github.com/user-attachments/assets/7008cbbd-9e41-402d-ace9-a551e569a28a" />
+<img width="60%" height="50%" alt="Image" src="https://github.com/user-attachments/assets/7008cbbd-9e41-402d-ace9-a551e569a28a" />
 
 <!--
 **kwonjunsun9/kwonjunsun9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
